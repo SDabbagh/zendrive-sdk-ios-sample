@@ -9,8 +9,8 @@
 #import "ViewController.h"
 #import <ZendriveSDK/Zendrive.h>
 
-static NSString * kZendriveKeyString = @"<your-application-key>";
-static NSString * kDriverId = @"<your-driver-id>";
+static NSString * kZendriveKeyString = @"ZkOXzIFMBbGqnqI8jEPXAAebA7fAizpC";
+static NSString * kDriverId = @"SDabbagh";
 
 @interface ViewController () <ZendriveDelegateProtocol>
 
